@@ -12,5 +12,9 @@ Which products are performing best?
 Which channels are underperforming?
 Provide recommendations.
 
+# Basic Skills Demonstrated
+- Data cleaning
+- EDA (Exploratory Data Analysis)
+- Data Visualization
 
 *Disclaimer: The dataset utilized and the reports produced are purely fictional and do not represent any individual, organization, institution, or nation. They are merely illustrative examples of my ongoing Data Analysis education.*
